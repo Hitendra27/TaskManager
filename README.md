@@ -20,3 +20,7 @@ This image, which you need to download and then import into your project, and th
 
 * All tasks completed
 * Nice work!
+
+# Screenshot of the App
+<img width="404" alt="Screenshot 2024-01-27 at 19 44 35" src="https://github.com/Hitendra27/TaskManager/assets/73651340/db16bd97-d2bf-4b83-a50f-8f0f9dcc3cd0">
+
